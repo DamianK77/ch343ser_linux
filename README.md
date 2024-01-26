@@ -1,4 +1,8 @@
 # ch343 linux serial driver
+## Modification
+
+Modification of original driver that registers as ttyUSB0 instead of ttyCH343USB so it gets picked up by ESP-IDF extension in VS code.
+
 ## Description
 
 USB to UART(s) chip ch342/ch343/ch344/ch347/ch9101/ch9102/ch9103/ch9104 are fully compliant to the  Communications Device Class (CDC) standard, they will work with a standard CDC-ACM driver (CDC - Abstract Control Model). Linux operating systems supply a default CDC-ACM driver that can be used with these USB UART devices. In Linux, this driver file name is cdc-acm.
