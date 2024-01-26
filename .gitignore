@@ -1,0 +1,13 @@
+driver/.ch343.mod.cmd
+driver/.ch343.o.cmd
+driver/.modules.order.cmd
+driver/ch343.mod.c
+driver/ch343.o
+driver/ch343.mod.o
+driver/ch343.ko
+driver/.ch343.mod.o.cmd
+driver/.Module.symvers.cmd
+driver/.ch343.ko.cmd
+driver/ch343.mod
+driver/Module.symvers
+driver/modules.order
